@@ -11,7 +11,7 @@ This project is created as part of an internship task to showcase automated depl
 - GitHub Actions – CI/CD pipeline
 - GitHub Pages – Web application hosting
 - HTML – Simple web application
-- Linux – Command line operations
+- Putty – Command line operations
 
 ## Workflow
 - Build a CI/CD pipeline
